@@ -124,7 +124,7 @@ namespace Student_Management_System
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Process.Start("D:\\Visual Studio\\Projects\\Project 03\\Project 03\\bin\\Debug\\net8.0-windows\\Project 03");
+            Process.Start("D:\\Visual Studio\\06 Projects\\Project 03\\Project 03\\bin\\Debug\\net8.0-windows\\Project 03");
             this.Hide();
         }
     }
